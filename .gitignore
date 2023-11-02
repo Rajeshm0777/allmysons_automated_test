@@ -1,0 +1,10 @@
+node_modules
+package-lock.json
+
+cypress/videos
+cypress/screenshots
+cypress/e2e/url.cy.js
+
+ex.js
+
+
